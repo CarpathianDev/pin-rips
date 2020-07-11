@@ -1,4 +1,4 @@
-# pin-rips
+# pin-trips
 > Fully responsive and bilingual website of the PiN Trips travel agency organizing tours across Georgia and running a hostel in the southern Caucasus.
 
 ## Technologies
