@@ -1,7 +1,7 @@
 # pin-rips
 > Fully responsive and bilingual website of the PiN Trips travel agency organizing tours across Georgia and running a hostel in the southern Caucasus.
 
-##Technologies
+## Technologies
 * HTML5
 * CSS:
   - Flexbox
