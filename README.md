@@ -9,7 +9,7 @@
   - jQuery (Lightbox2 - modal image gallery)
   
 ## Author
-Bartosz Wojcik @carpathiandev - feel free to contact me!
+Bartosz Wojcik carpathiandev@gmail.com - feel free to contact me!
 
 ## Live
 [pin-trips.com](https://pin-trips.com)
