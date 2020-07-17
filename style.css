@@ -593,6 +593,10 @@ a.aside_link {
     align-content: space-around;
 }
 
+.trips-items a {
+    margin: 7vh 2vw;
+}
+
 .trip {
     position: relative;
     width: 350px;
@@ -601,7 +605,7 @@ a.aside_link {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    margin: 7vh 2vw;
+    margin: 0;
     box-shadow: 0 0 10px 8px rgba(10, 10, 10, .5);
     background-size: 230%;
     transition: 1s;
@@ -637,6 +641,10 @@ a.aside_link {
 
 .img8 {
     background-image: url("img/samshvilde/samshvilde.jpg");
+}
+
+.img9 {
+    background-image: url("img/dariali/dariali.jpg");
 }
 
 .trip:hover {
